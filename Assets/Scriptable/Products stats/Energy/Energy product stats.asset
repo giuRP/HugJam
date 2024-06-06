@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a613862714b08214fb16601d2eef60be, type: 3}
+  m_Name: Energy product stats
+  m_EditorClassIdentifier: 
+  shopIcon: {fileID: -1877155314, guid: 97f03fff3471fd642b4e6143567052a2, type: 3}
+  cost: 0
+  animController: {fileID: 22100000, guid: 4126dc99215e7464da0d04af0e71cfe9, type: 2}
+  growhtTimeBonus: 0
+  harvestBonus: 0
+  fertilBonus: 0
+  carbonMinValue: 0
+  carbonDecreaseRateBonus: 0
+  carbonIncreaseBonus: 60
+  energyCostUse: 0
+  energyProduction: 4

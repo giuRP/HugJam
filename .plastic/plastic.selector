@@ -1,0 +1,4 @@
+repository "HugJam@Rerezindasgalaxias@cloud"
+  path "/"
+    br "/main"
+    co "/main"
